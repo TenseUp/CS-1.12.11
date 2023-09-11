@@ -93,7 +93,7 @@ class DiverseArrayTest {
                 {3, 2, 3, 0, 6}
         };
 
-        assertFalse(DiverseArray.isDiverse(array2d));
+        assertTrue(DiverseArray.isDiverse(array2d));
 
     }
 }

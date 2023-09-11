@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c19ed0c-a6fb-4058-adfc-076e94a0fdf3" name="Changes" comment="" />
+    <list default="true" id="2c19ed0c-a6fb-4058-adfc-076e94a0fdf3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS.12.01-Tutorial.1.2.11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS.12.01-Tutorial.1.2.11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiverseArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiverseArrayTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +22,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/2025-Dominic-Falso/Desktop/coding/year12/tutorial/CS.12.01-Tutorial.1.2.11"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
